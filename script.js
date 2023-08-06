@@ -45,3 +45,9 @@ change8.addEventListener("click", (event) => {
     event.target.style.background = "red";
     event.target.style.color = "white";
 });
+
+// const change8 = document.getElementById("image8");
+// change8.addEventListener("click", (event) => {
+//     event.target.style.background = "red";
+//     event.target.style.color = "white";
+// });
